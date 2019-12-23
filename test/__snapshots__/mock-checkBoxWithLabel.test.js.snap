@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mock_checkboxWithLabe changes the text after click 1`] = `
+<div>
+  <label>
+    <input
+      type="checkbox"
+    />
+    Off
+  </label>
+</div>
+`;

@@ -26,6 +26,8 @@ module.exports = {
     'react',
   ],
   rules: {
+    "import/prefer-default-export": WARN,
+    "no-param-reassign": ERROR,
     "react/jsx-filename-extension": [WARN, { "extensions": [".js", ".jsx"] }],
     "semi": ERROR
   },

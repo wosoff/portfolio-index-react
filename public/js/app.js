@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import ProgressBar from './progress-bar/ProgressBar';
 
 ReactDOM.render(
-  <h1>Hello, My world</h1>,
+  <div><ProgressBar /></div>,
   document.getElementById('root'),
 );
